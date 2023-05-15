@@ -1,0 +1,4 @@
+- [x] 昨日文章总结
+- [ ] PostgreSQL服务器编程
+	- [ ] 第 1 章 PostgreSQL服务器简介
+	- [ ] 第 10 章 发布自己的PostgreSQL 扩展程序
